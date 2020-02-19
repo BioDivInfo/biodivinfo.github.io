@@ -18,6 +18,7 @@ b. <i class="material-icons">assignment_turned_in</i> Assignment-turned-in
 
 c. <i class="fas fa-clipboard-check"></i> Clipboard-check
 
+
 ###[Digitalização e Gerenciamento de Dados](https://fontawesome.com/icons/barcode-read?style=solid)
 
 descrição = tutoriais e boas práticas para digitalização/informatização de dados de exemplares biológicos, gerenciamento de dados e qualidade dos dados
@@ -26,8 +27,7 @@ a. <i class="material-icons">important_devices</i> [Devices](https://material.io
 
 b. <i class="material-icons">desktop_windows</i> Desktop
 
-c. <i class="fas fa-laptop"></i> Laptop  , unicode f109
-
+c. <i class="fas fa-desktop"></i>  unicode f108
 
 
 ###[Ferramentas](https://fontawesome.com/icons/robot?style=solid)
