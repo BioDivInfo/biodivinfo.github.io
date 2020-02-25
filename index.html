@@ -1,6 +1,4 @@
----
-layout: default
----
+--- layout: default ---
 
 <div class="home">
 
@@ -24,13 +22,6 @@ layout: default
   <section class="conteudo">
     <h2>Conteúdo</h2>
     Galeria com quadrados dedicados a cada assunto a serem abordados
-  </section>
-  <section class="contribuir">
-    <h2>Como contribuir</h2>
-    <p>Ideias, tutoriais ou mesmo histórias de "gambiarras" que podem ajudar a comunidade?</p>
-    <button>Envie Seu Conteúdo</button>
-  </section>
-  <section>
     <div class="row pack">
 
       {% for post in paginator.posts %}
@@ -84,6 +75,11 @@ layout: default
       </div>
       <div class="col-md-4"> </div>
     </div>
+  </section>
+  <section class="contribuir">
+    <h2>Como contribuir</h2>
+    <p>Ideias, tutoriais ou mesmo histórias de "gambiarras" que podem ajudar a comunidade?</p>
+    <button>Envie Seu Conteúdo</button>
   </section>
 
 </div>
