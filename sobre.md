@@ -29,9 +29,4 @@ preditivos.
 
 Ideias, tutoriais ou mesmo histórias de "gambiarras" que podem ajudar a comunidade?
 
-<button>Envie Seu Conteúdo</button>
-
-<!-- Webjeda cards is a Bootstrap based theme. Any Bootstrap element can be used in the theme. Read [Webjeda Blog](http://blog.webjeda.com){: target="_blank"} for jekyll tutorials.  -->
-
-<!-- <a class="github-button" href="https://github.com/sharu725/cards" data-style="mega" data-count-href="/sharu725/cards/stargazers" data-count-api="/repos/sharu725/cards#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star sharu725/cards on GitHub">Star</a>
-<script async defer src="https://buttons.github.io/buttons.js"></script> -->
+<a href="/contato/" class="btn btn-info">Envie Seu conteúdo</a>
