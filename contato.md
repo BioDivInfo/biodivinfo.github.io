@@ -4,5 +4,6 @@ title: Contato
 permalink: /contato/
 ---
 
+Quer contribuir com o arquivo? Tem alguma dúvida sobre o projeto? Entre em contato conosco através do formulário abaixo:
 
-Formulário de contato
+{% include contactform.html %}
