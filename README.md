@@ -2,12 +2,10 @@
 
 Repositório dedicado ao conhecimento relacionado à Informática para a Biodiversidade.
 
-## O que é esse site?
+## O que é este site?
 
-Nossa proposta é construir uma rede virtual colaborativa de Coleções Zoológicas Brasileiras. 
+Nossa proposta é construir uma rede virtual colaborativa para troca de informações entre coleções zoológicas brasileiras. 
 Este site pretende agregar e divulgar informações, boas práticas e protocolos que se relacionem a Informática para a Biodiversidade, Curadoria e Gerenciamento de Coleções Biológicas, Digitalização/Informatização de exemplares biológicos e pesquisa em Sistemática Zoológica.
-Percebemos a necessidade de melhorar a comunicação dentro da comunidade associada às coleções zoológicas, incluindo curadores, técnicos, pesquisadores, estudantes, voluntários e outros interessados. Existem diversas referências em língua inglesa, mas muito do que fazemos é adaptado à nossa realidade enquanto coleções brasileiras, e inglês não é sempre acessível a todos. Embora fóruns e listas de e-mail tenham permitido uma troca relativamente rápida de informações e experiências, e técnicas tenham sido publicadas esparsamente como artigos muitas vezes em revistas científicas, um site como este permite organizar e apresentá-las (com o devido crédito) de modo mais estável e intuitivo, de modo a (esperamos) a dar a elas visibilidae suficiente para auxiliar como referência no desenvolvimento de coleções onde não há especialistas nos assuntos tratados aqui.
-A ideia foi mencionada pela primeira vez durante o fórum do Encontro para Integração das Coleções Zoológicas no XXXII Congresso Brasileiro de Zoologia (2018) e a proposta apresentada no XXIII Congresso Brasileiro de Zoologia (2020) por Ana Dal Molin (UFRN), Elaine Soares (UNILA) e Laura Rocha Prado (ASU, EUA). 
 
 
 ## O que é Informática para a Biodiversidade?
